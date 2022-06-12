@@ -8,6 +8,10 @@ Run this server.js file using command "node server.js" if you have nodejs instal
 
 Otherwise install it using this guid https://nodejs.org/en/download/
 
+![image](https://user-images.githubusercontent.com/74859157/173242966-70f34d7c-29d5-4ac2-987f-e33e9b7e98e0.png)
+
 I have hosted my app on Netlify, so after successfully running the server file hit this link https://work-board.netlify.app/
 
 Now, you use the todo app 
+
+
