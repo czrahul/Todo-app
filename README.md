@@ -28,9 +28,9 @@ This the user interface
 
 Here, you a have option to add a new task providing Title of the task and Description about that task. After adding it will be visible in the To Do pane. 
 
-In the right side of the each pane, there are three buttons to Archive, Delete or Move a task from one pane to another. 
+In the top right corner of the each pane, there are three buttons to Archive, Delete or Move a task (from one pane to another). 
 
-For using any of these three features you have to select any task by left click on that task and then hit the one of the three buttons in the respective pane.
+To use any of these three features you have to select any task by left click on that task and then hit the one of the three buttons in the respective pane.
 
 In the header there is a search bar, you can search for tasks providing the valid Title. Type the search key and press the search icon then Tasks with that title will be shown in all three panes. Refresh the page of click on the search icon again to return back to main page.
 
