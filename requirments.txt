@@ -1,3 +1,5 @@
+#install these dependencies using command prompt
+
 npm i express
 
 npm i cors
