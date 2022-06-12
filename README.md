@@ -6,9 +6,9 @@ To run this app first you have to download the [server.js](https://github.com/cz
 
 Run this server.js file using command "node server.js" if you have nodejs installed in your system 
 
-Otherwise install it using this guid https://nodejs.org/en/download/
-
 ![image](https://user-images.githubusercontent.com/74859157/173242966-70f34d7c-29d5-4ac2-987f-e33e9b7e98e0.png)
+
+Otherwise install it using this guid https://nodejs.org/en/download/
 
 I have hosted my app on Netlify, so after successfully running the server file hit this link https://work-board.netlify.app/
 
