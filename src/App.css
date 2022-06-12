@@ -1,0 +1,64 @@
+span {
+  display: inline;
+}
+
+.searchbox {
+  float: right;
+  margin-left: 80%;
+  padding-top: 0.5%;
+  padding-bottom: 0.5%;
+}
+
+.App-header {
+  display: flex;
+  flex-direction: row;
+  gap: 20%;
+  margin-left: -8px;
+  margin-top: -8px;
+  width: 100%;
+  cursor: pointer;
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  text-transform: uppercase;
+  background-color: #39445a;
+  font-family: "Montserrat", sans-serif;
+  font-size: 3vw;
+  box-shadow: -1px 10px 5px 0px rgba(0,0,0,0.75);
+  -webkit-box-shadow: -1px 10px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: -1px 10px 5px 0px rgba(0,0,0,0.75);
+  color: white;
+  z-index: 100;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-items: center;
+  gap: 21%;
+  margin-left: 11.5%;
+}
+
+.split {
+  height: 100%;
+  width: 33.33%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 100px;
+}
+
+.left {
+  left: 0;
+  background-color: blue;
+}
+
+.right {
+  right: 0;
+  background-color: red;
+}
+.middle {
+	left: 33.33%;
+    background-color: green;
+}
